@@ -6,6 +6,5 @@ Website del Curso Analisis Topologico de Datos - UNAL Bogota Verano 2026
 **Clase 1:** Conjuntos de datos como espacios metricos, Python basico, Analsis de Componentes Principales (PCA)
 
 
-
-### Acceder a los Jupyter Notebooks:
+## Jupyter Notebooks:
 Recomiendo utilizar Google Colab: [https://colab.research.google.com/](https://colab.research.google.com/)
