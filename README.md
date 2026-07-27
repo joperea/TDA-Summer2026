@@ -13,4 +13,4 @@ Recomiendo utilizar Google Colab: [https://colab.research.google.com/](https://c
 
 [**Notebook - Clase 1**](https://github.com/joperea/TDA-Summer2026/blob/main/jupyter%20notebooks/UNAL_Bog_TDA_Clase_1_Python_basico_y_PCA.ipynb)
 
-[**Notebook - Clase 2**](../blob/main/jupyter notebooks/UNAL_Bog_TDA_Clase_2_Agrupamientos_Clustering.ipynb)
+[**Notebook - Clase 2**](https://github.com/joperea/TDA-Summer2026/blob/main/jupyter%20notebooks/UNAL_Bog_TDA_Clase_2_Agrupamientos_Clustering.ipynb)
