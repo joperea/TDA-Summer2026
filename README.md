@@ -3,7 +3,7 @@ Website del Curso Analisis Topologico de Datos - UNAL Bogota Verano 2026
 
 
 ## Temas
-**[Clase 1](lecture notes/UNAL Bog TDA - SS26 - Lecture 1.pdf):** Conjuntos de datos como espacios metricos, Python basico, Analsis de Componentes Principales (PCA)
+**[lecture notes/UNAL Bog TDA - SS26 - Lecture 1.pdf](Clase 1):** Conjuntos de datos como espacios metricos, Python basico, Analsis de Componentes Principales (PCA)
 
 **Clase 2:** Componentes arco-conexas, 0-Homologia, agrupamiento (clustering) topologico
 
