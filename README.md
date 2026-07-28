@@ -1,5 +1,5 @@
 # TDA-Summer2026
-Website del Curso Analisis Topologico de Datos - UNAL Bogota Verano 2026
+Website del Curso Analisis Topologico de Datos - UNAL Bogota Verano 2026. La informacion de contenido y fuentes bibliograficas se  encontran en el [syllabus](https://github.com/joperea/TDA-Summer2026/blob/main/syllabus_SS26-UNAL_Bog-TDA.pdf).
 
 
 ## Temas
