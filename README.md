@@ -9,6 +9,7 @@ Website del Curso Analisis Topologico de Datos - UNAL Bogota Verano 2026. La inf
 
 [**Clase 3:**](https://github.com/joperea/TDA-Summer2026/blob/main/lecture%20notes/UNAL%20Bog%20TDA%20-%20SS26%20-%20Lecture%203.pdf) Complejos simpliciales, caracteristica de Euler, curvas caracteristicas de Euler
 
+[**Clase 4:**](https://github.com/joperea/TDA-Summer2026/blob/main/lecture%20notes/UNAL%20Bog%20TDA%20-%20SS26%20-%20Lecture%204.pdf) Homologia simplicial y numeros de Betti
 
 
 ## Jupyter Notebooks:
