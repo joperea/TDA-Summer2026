@@ -11,6 +11,8 @@ Website del Curso Analisis Topologico de Datos - UNAL Bogota Verano 2026. La inf
 
 [**Clase 4:**](https://github.com/joperea/TDA-Summer2026/blob/main/lecture%20notes/UNAL%20Bog%20TDA%20-%20SS26%20-%20Lecture%204.pdf) Homologia simplicial y numeros de Betti
 
+[**Clase 5:**](https://github.com/joperea/TDA-Summer2026/blob/main/lecture%20notes/UNAL%20Bog%20TDA%20-%20SS26%20-%20Lecture%205.pdf) La persistencia homologica de los datos
+
 
 ## Jupyter Notebooks:
 Recomiendo utilizar Google Colab: [https://colab.research.google.com/](https://colab.research.google.com/)
@@ -20,3 +22,5 @@ Recomiendo utilizar Google Colab: [https://colab.research.google.com/](https://c
 [**Notebook - Clase 2**](https://github.com/joperea/TDA-Summer2026/blob/main/jupyter%20notebooks/UNAL_Bog_TDA_Clase_2_Agrupamientos_Clustering.ipynb)
 
 [**Notebook - Clase 3**](https://github.com/joperea/TDA-Summer2026/blob/main/jupyter%20notebooks/UNAL_Bog_TDA_Clase_3_Curvas_de_Euler.ipynb)
+
+[**Notebook - Clase 5**](https://github.com/joperea/TDA-Summer2026/blob/main/jupyter%20notebooks/UNAL_Bog_TDA_Clase_5_Persistencia_homologica.ipynb)
